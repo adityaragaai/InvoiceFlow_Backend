@@ -81,7 +81,7 @@ The API was designed with production standards in mind — structured error hand
     </td>
     <td align="center" width="50%">
       <b>📝 Invoice Creation Form</b><br/><br/>
-      <img src="https://github.com/user-attachments/assets/b2123ef1-fac6-4dde-a514-850bf986dff6" width="420" alt="Invoice Creation Form"/>
+      <img src="https://github.com/user-attachments/assets/b2123ef1-fac6-4dfa-a514-850bf986dff6" width="420" alt="Invoice Creation Form"/>
     </td>
   </tr>
 </table>
