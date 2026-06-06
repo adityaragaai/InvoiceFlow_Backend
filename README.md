@@ -28,6 +28,7 @@
 ## 📋 Table of Contents
 
 - [📖 Overview](#-overview)
+- [🖼️ Screenshots](#️-screenshots)
 - [✨ Features](#-features)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [📁 Folder Structure](#-folder-structure)
@@ -55,6 +56,37 @@ The API was designed with production standards in mind — structured error hand
 
 > 🏗️ **Project Type:** Full-Stack Internship Assignment  
 > 🔗 **Frontend:** Separately deployed — see [InvoiceFlow Frontend](https://github.com/adityaragaai/InvoiceFlow_Frontend)
+
+---
+
+## 🖼️ Screenshots
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>📊 Invoice Dashboard</b><br/><br/>
+      <img src="https://github.com/user-attachments/assets/02a83d0d-d6c3-40cd-8643-a9aec537acc4" width="420" alt="Invoice Dashboard"/>
+    </td>
+    <td align="center" width="50%">
+      <b>📈 Analytics — Top 5 Customers</b><br/><br/>
+      <img src="https://github.com/user-attachments/assets/e274ea90-0242-479a-aae5-86b5cbd1e6b2" width="420" alt="Analytics Top 5 Customers"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>👤 Customer Profile Page</b><br/><br/>
+      <img src="https://github.com/user-attachments/assets/de32d25f-1ab7-40b8-a921-4c0699929c30" width="420" alt="Customer Profile Page"/>
+    </td>
+    <td align="center" width="50%">
+      <b>📝 Invoice Creation Form</b><br/><br/>
+      <img src="https://github.com/user-attachments/assets/b2123ef1-fac6-4dde-a514-850bf986dff6" width="420" alt="Invoice Creation Form"/>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
